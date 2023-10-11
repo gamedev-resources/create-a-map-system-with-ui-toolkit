@@ -1,4 +1,4 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/create-a-map-system-with-ui-toolkit/).
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
 
 # Introduction
 Maps are important for many games as they help guide the player towards key initiatives and if done right, help engross them further into the world. There are two types of maps - full map and a mini map. This tutorial will walk through how to implement both using UI Toolkit. 
